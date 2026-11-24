@@ -20,12 +20,15 @@ Features :
 
 Operation Encoding :
 
-Operation| Opcode
-LSL      | 000
-LSR      | 001
-ASR      | 010
-ROL      | 011
-ROR      | 100
+
+| Operation | Opcode |
+|-----------|--------|
+| LSL       | 000    |
+| LSR       | 001    |
+| ASR       | 010    |
+| ROL       | 011    |
+| ROR       | 100    |
+
 
 Architecture :
 
